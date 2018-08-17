@@ -1,13 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-Privacy
-</title>
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-</head>
-<body>
 Privacy Here
 https://gramland.github.io/gramland.gitub.io/web1/buoneforchettecom/privacy.txt
-</body>
-</html>
